@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+secrets/.env
+secrets/credentials.json
+secrets/google-auth.pickle
+server/whatsapp/whatsapp-bridge/store/
