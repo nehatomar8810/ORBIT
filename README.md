@@ -2,7 +2,7 @@
 
 ORBIT is a FastAPI-based WebSocket server that integrates with a React frontend to provide real-time AI agent interactions. The project includes Gmail and Google Tasks integration through MCP (Model Context Protocol) servers.
 
-[![Watch Video](https://github.com/user-attachments/assets/4d64d07d-3690-48e9-87d7-a1ae897e4566)](https://drive.google.com/file/d/1h1z1i7Ab4D1Gp8eQQtZhyINVcjUJfUvw/view?usp=drivesdk)
+<img width="1141" height="572" alt="Screenshot 2025-11-26 233857" src="https://github.com/user-attachments/assets/a045e070-7bb9-4240-a99b-81f792ea281e" />
 
 ## Prerequisites
 
@@ -10,6 +10,8 @@ ORBIT is a FastAPI-based WebSocket server that integrates with a React frontend 
 - Node.js 18+ and npm
 - [UV](https://docs.astral.sh/uv/) package manager
 - Google API credentials (for Gmail and Tasks integration)
+
+<img width="1147" height="557" alt="Screenshot 2025-11-26 233142" src="https://github.com/user-attachments/assets/b2e650a0-3554-45de-a242-62fe72ab1401" />
 
 ## Installation
 
@@ -49,6 +51,7 @@ This will automatically:
 cd frontend
 npm install
 ```
+<img width="1146" height="560" alt="Screenshot 2025-11-26 233218" src="https://github.com/user-attachments/assets/4935c77f-2fcc-4ff2-8b1f-11e5c2ca7365" />
 
 ## Configuration
 
